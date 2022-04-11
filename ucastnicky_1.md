@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Denisa Hindosova
 Barbora Madunicka
 Dominika Sabova
