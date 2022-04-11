@@ -1,3 +1,4 @@
 Monika Vargova
-Ivana
+Klaudiu Sivakova
+Ivana Ballova
 Filip Rechtoris
