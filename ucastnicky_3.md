@@ -1,1 +1,3 @@
+Nika Argalasova
 Filip Rechtoris
+Veronika Porubanova
