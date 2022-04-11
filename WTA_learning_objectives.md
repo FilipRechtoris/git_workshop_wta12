@@ -82,6 +82,67 @@
     Falošná predstava o neexistencii omylov.
 
 # Session based testing 
+
+    Kontrolovaný exploratory testing.
+
+    Rýchle objavenie chýb.
+
+    Test design v priebehu testovania.
+
+    Okamžité reportovanie a vyhodnotenie.
+
+**Mission**
+
+    Definuje význam testovania.
+
+    Jednoduchý popis na čo sa má tester zamerať.
+
+**Charter**
+
+    Zoznam toho, čo sa bude testovať v rámci jednej session.
+
+**Session**
+
+    Definuje rámec v rámci ktorého sa bude testovať.
+
+    Obvykle trvá 45-120 minút.
+
+    Nepretržité a nerušené testovanie.
+
+    Zameraná na úlohy z charteru.
+
+    Testovanie na základe nápadov, skúseností, heuristike (návodu).
+
+**Report**
+
+    Charter = zoznam úloh.
+
+    Oblasť, ktorá bude testovaná.
+
+    Popis, ako bol testing vykonávaný.
+
+    Zoznám chýb v .xls.
+
+    Zoznam problémov otázok, nejastností.
+
+    Podiel z celkového času strávenom na testovaní, popisovaní a dohľadávaní bugov, príprava session a iné aktivity nesúvisace s testovaním.
+
+    Čas začiatku a celkovo strávený čas.
+
+**Vyhodnotenie**
+
+    Diskusia manažér vs.tester o reporte.
+
+        Čo sa udialo počas testovania/session
+
+        Výsledky - čo ste dosiahli počas jednej session
+
+        Prekážky - čo bránilo testovaniu?
+
+        Čo treba ešte otestovať, vykonať? 
+
+        Osobný pocit zo softwéru.
+        
 # Jira and Bug
 # Manažment testovania 
 # Modely vývoja software-u 
