@@ -42,6 +42,41 @@ Každá úloha má svoj stav
 
 *Regresné testovanie* - nepokazilo sa opravou niečo iné?
 # Manažment testovania 
+
+**Postavenie QA v štruktúre projektu**
+
+V štruktúre projektu sa väčšinou vytvára agilný tím v zložení: 
+- Analytik 
+- Vyvojár 
+- Dizajnér 
+- Tester
+
+**Plánovanie a odhadovanie testovania**
+- Definícia rizík, rolí a testovacej dokumentácie
+- Integrácia v rámci životného cyklu softvéru
+- Výber metrík pre monitoring
+
+**Sledovanie a riadenie postupu testovania**
+- Účel
+- Monitorované informácie môžu byť zbierané manuálne alebo automaticky
+- Metriky
+
+**Riziko a testovanie**
+
+Riziko delíme na:
+- Projektové - ohraničujú schopnosť projektu dosiahnuť jeho ciele
+- Produktové - ohrozujú kvalitu produktu
+
+**Incident**
+- problém na produkcii
+
+**Technická špecifikácia**
+- Dokument popisujúci 
+požiadavky na aplikáciu
+- Architektúru aplikácie
+- Požiadavky na vzhľad
+- Budúca verzia aplikácie
+
 # Modely vývoja software-u 
 # Techniky tvorby testov
 # HTML, CSS, JavaScript 
