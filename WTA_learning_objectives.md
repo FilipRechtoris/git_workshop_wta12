@@ -27,6 +27,45 @@
 - dáva dôveru v kvalitu vyvýjaného softvéru
 
 # Session based testing 
+
+- kontrolovaný exploratory testing
+- rýchle objavenie chýb
+- test dizajn v priebehu testovania
+- okamžité reportovanie a vyhodnotenie
+
+**MISSION**
+- definuje význam testovania
+- jednoduchý popis na čo sa má tester zamerať
+
+**CHARTER**
+- zoznam toho, čo sa bude testovať v rámci jednej session
+
+**SESSION**
+- definuje rámec, v rámci ktorého sa bude testovať
+- trvá obvykle 45-120 minút
+- nepretržité a nerušené testovanie
+- zamerané na úlohy z charteru
+- testovanie na základe nápadov, skúseností, heuristike (návodu,...)
+
+**REPORT**
+- zreportujem v ňom bugy
+- mal by obsahovať: 
+1. charter = zoznam úloh
+2. oblasť, ktorá bola testovaná
+3. popis, ako bol testing vykonávaný
+4. zoznam chýb (najčastejšie v .xls)
+5. zoznam problémov, otázok, nejasností
+6. podiel z celkového času strávenom na testovaní: popisovanie a dohľadávanie bugov, príprava na session a iné aktivity nesúvisiace s testovaním
+7. čas začiatku a celkovo strávený čas
+
+**VYHODNOTENIE**
+- diskusia medzi manažérom a testerom o reporte
+- čo sa udialo počas testovania
+- výsledky - čo ste dosiahli počas jednej session
+- prekážky - čo bránilo testovaniu
+- čo treba ešte otestovať, vykonať
+- osobný pocit zo softvéru
+
 # Jira and Bug
 **JIRA**
 
