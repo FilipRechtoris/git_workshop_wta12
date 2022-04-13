@@ -363,4 +363,19 @@ b) ŠPIRÁLA
 
 # Testovanie API 
 # SQL 
+
 # Robot Framework 
+- jednoduchý genericky testovací automatický framework
+- sekcie: 
+1. *** SETTINGS ***
+- definuje základné nastavenia RF
+- aké knižnice používať, aké keywordy
+
+2. *** VARIABLES ***
+- definujem premenné
+
+3. *** KEYWORDS ***
+- definujem vlastné keywordy
+
+4. *** TEST CASES ***
+- definujem testovacie prípady
