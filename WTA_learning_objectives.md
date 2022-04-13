@@ -144,6 +144,39 @@ požiadavky na aplikáciu
 - Budúca verzia aplikácie
 
 # Modely vývoja software-u 
+
+**Sekvenčný vývoj**
+- lineárny, sekvenčný tok činností
+- nová fáza začína až po konci predchádzajúcej
+- testovanie štandardne až na konci
+
+**Waterfall - kaskádový model**
+
+1. Requirement (požiadavka)
+2. Design - akým spôsobom navrhneme systém
+3. Implementation - vývojári tvoria kód
+4. Verification - keď je kód napísaný, testeri testujú
+5. Maintenance - údržba, nasadenie, kontrola chýb, optimalizujú sa procesy, najčastejšie u zákazníka
+
+**V-model**
+
+- ku každej fáze Waterfallu, existuje testovacia fáza
+
+**W-model**
+
+- implementujem včasné testovanie, už keď sa tvoria požiadavky
+- keď overíme na začiatku požiadavky, či to viem podľa nich testovať, vieme dať pripomienky a chyby = ušeetríme neskôr náklady na vývoj a testing
+
+**Iteratívny vývoj**
+
+- vývoj sa opakuje v krátkych cykloch = iteráciách
+- výsledkom iterácie by mal byť funkčný produkt, alebo jeho časť
+- testovanie prebieha štandardne zároveň s vývojom
+
+a) RAPID APPLICATION DEVELOPMENT 
+b) ŠPIRÁLA 
+
+
 # Techniky tvorby testov
 # HTML, CSS, JavaScript 
 # Testovanie API 
