@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
-Denisa Hindosova
+Eva Jancinova
 Barbora Madunicka
-
-
 Dominika Sabova
 Filip Rechtoris
