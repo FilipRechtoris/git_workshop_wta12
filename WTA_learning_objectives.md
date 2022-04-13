@@ -178,7 +178,30 @@ b) ŠPIRÁLA
 
 
 # Techniky tvorby testov
+
 # HTML, CSS, JavaScript 
+
+**HTML**
+
+- Hyper Text Markup Language
+- popisný jazyk!!!
+- definuje štruktúru stránky
+- obsah stránky
+- má dve časti: head a body
+
+**CSS**
+
+- popisný jazyk!!!
+- definuje ako má stránka vyzerať: farby, písmo, odsadenia,...
+- rozmiestnenie elementov na stránke
+- vizuál stránky
+
+**JavaScript**
+
+- programovací jazyk!!!
+- vie manipulovať s elementami, vytvárať, odoberať, editovať
+- "vdýchne stránke život"
+
 # Testovanie API 
 # SQL 
 # Robot Framework 
