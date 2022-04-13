@@ -80,7 +80,7 @@
 
 # Jira and Bug
 
-**Defekt/bug vs Zlyhanie**
+## Defekt/bug vs Zlyhanie
 
     - defekt = bug = chyba => žije vlstným životom v software
     - zlyhanie = výsledok činnosti chybného software
