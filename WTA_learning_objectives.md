@@ -178,7 +178,41 @@ b) ŠPIRÁLA
 
 
 # Techniky tvorby testov
+
 # HTML, CSS, JavaScript 
+
+**Prvá HTML stránka**
+
+- *1989*, Manažment dokumentov pre **CERN**
+-  Popisovanie pomocou **Hypertext**
+Viac o histórii **HTML** [Wikipédia] (https://en.wikipedia.org/wiki/HTML)
+
+## HTML
+Hypertext Markup Language
+Popisný jazyk
+Definuje štruktúru stránky
+**Obsah stránky**
+
+
+## Element
+Samostatná jednotka na stránke
+Má začiatočný <p> a ukončovací tag </p>
+HTML stránka sa skladá z elementov
+
+## CSS
+Definuje ako má stránka vyzerať
+Farby, písmo, odsadenia.
+Rozmiestnenie elementov na stránke
+**Vizuál stránky**
+
+## Javascript
+Programovací jazyk
+Vie manipulovať s elementami, vytvárať, odoberať editovať.
+**Vdýchne stránke život**
+
+
+
+
 # Testovanie API 
 # SQL 
 # Robot Framework 
